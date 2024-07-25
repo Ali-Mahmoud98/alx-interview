@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""Triangle Triangle"""
+
+
 def pascal_triangle(n):
     if n <= 0:
         return []
